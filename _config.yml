@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : ""
+title                    : "Academic Page"
 title_separator          : "-"
 name                     : &name "Weihua Kuang"
 description              : &description "Weihua Kuang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-weihua.png"
+  avatar           : "profile-nano-banana.png"
   name             : "Weihua Kuang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate, major in Software Engineering"
-  location         : "Earth"
+  location         : # 
   employer         : "Nankai University"
   uri              : # URL
   email            : "kuangwh.ac@gmail.com"
